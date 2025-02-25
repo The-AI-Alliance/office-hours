@@ -1,8 +1,8 @@
 # Review of Data Preparation Tools (2025 Feb 27)
 
-## 🔗 [Short URL - TODO](#)
+## 🔗 [tinyurl.com/jzbvaeak](https://tinyurl.com/jzbvaeak)
 
-<img src="../assets/qrcode_the-ai-alliance.github.io.png" width="400px">
+<img src="../assets/qrcode_2025-02-27__data-prep-review.png" width="400px">
 
 ## Event Details
 

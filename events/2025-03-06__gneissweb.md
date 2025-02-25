@@ -1,8 +1,8 @@
 # Introducing GneissWeb - a state-of-the-art LLM pre-training dataset (2025 March 06)
 
-## 🔗 [Short URL - TODO](#)
+## 🔗 [tinyurl.com/2wv52rc7](https://tinyurl.com/2wv52rc7)
 
-<img src="../assets/qrcode_the-ai-alliance.github.io.png" width="400px">
+<img src="../assets/qrcode_2025-03-06__gneissweb.png" width="400px">
 
 ## Event Details
 
