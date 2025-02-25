@@ -14,9 +14,10 @@
 
 **Introducing GneissWeb (pronounced "niceWeb"), a state-of-the-art LLM pre-training dataset**
 
-This introductory session will not be a Hands-on workshop, but I will take the audience through code examples that they can try at their leisure. Later on, in the meetups, I can make this a hands-on workshop.
-Description: At IBM, responsible AI implies transparency in training data:
-Introducing GneissWeb (pronounced “niceWeb”), a state-of-the-art LLM pre-training dataset with ~10 Trillion tokens derived from FineWeb, with open recipes, results, and tools for reproduction!
+At IBM, responsible AI implies transparency in training data:
+Introducing GneissWeb (pronounced "niceWeb"), a state-of-the-art LLM pre-training dataset with ~10 Trillion tokens derived from FineWeb, with open recipes, results, and tools for reproduction!
+
+In this session we will go over how we created GneissWeb and discuss tools and techniques used.  We will provide code examples that you can try at your leisure.
 
 👉 > 2% avg improvement in benchmark performance over FineWeb  
 👉 [Huggingface page](https://huggingface.co/datasets/ibm-granite/GneissWeb){:target="_blank" rel="noopener"}  
