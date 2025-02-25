@@ -18,13 +18,13 @@ This introductory session will not be a Hands-on workshop, but I will take the a
 Description: At IBM, responsible AI implies transparency in training data:
 Introducing GneissWeb (pronounced “niceWeb”), a state-of-the-art LLM pre-training dataset with ~10 Trillion tokens derived from FineWeb, with open recipes, results, and tools for reproduction!
 
-- :point_right: > 2% avg improvement in benchmark performance over FineWeb
-- :point_right: [Huggingface page](https://huggingface.co/datasets/ibm-granite/GneissWeb){:target="_blank" rel="noopener"}
-- :point_right: [Data prep kit detailed recipe](https://github.com/IBM/data-prep-kit/blob/dev/examples/notebooks/GneissWeb/GneissWeb.ipynb){:target="_blank" rel="noopener"}
-- :point_right: [Data prep kit bloom filter for quick reproduction](https://github.com/ian-cho/data-prep-kit/blob/dev/transforms/universal/bloom/bloom_python.ipynb){:target="_blank" rel="noopener"}
-- :point_right: [Recipe models for reproduction](https://huggingface.co/collections/ibm-granite/granite-data-67acf1780ddf9261f2c12b47){:target="_blank" rel="noopener"}
-- :point_right: [announcement](https://research.ibm.com/blog/gneissweb-for-granite-training){:target="_blank" rel="noopener"}
-- :point_right: [Paper](https://arxiv.org/abs/2502.14907){:target="_blank" rel="noopener"}
+👉 > 2% avg improvement in benchmark performance over FineWeb  
+👉 [Huggingface page](https://huggingface.co/datasets/ibm-granite/GneissWeb){:target="_blank" rel="noopener"}  
+👉 [Data prep kit detailed recipe](https://github.com/IBM/data-prep-kit/blob/dev/examples/notebooks/GneissWeb/GneissWeb.ipynb){:target="_blank" rel="noopener"}  
+👉 [Data prep kit bloom filter for quick reproduction](https://github.com/ian-cho/data-prep-kit/blob/dev/transforms/universal/bloom/bloom_python.ipynb){:target="_blank" rel="noopener"}  
+👉 [Recipe models for reproduction](https://huggingface.co/collections/ibm-granite/granite-data-67acf1780ddf9261f2c12b47){:target="_blank" rel="noopener"}  
+👉 [announcement](https://research.ibm.com/blog/gneissweb-for-granite-training){:target="_blank" rel="noopener"}  
+👉 [Paper](https://arxiv.org/abs/2502.14907){:target="_blank" rel="noopener"}  
 
 ## Resources
 
