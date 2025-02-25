@@ -56,7 +56,7 @@ None
 
 ### Speaker: Shahrokh Daijavad
 
-Research Scientist @ IBM Almaden Research Center
+**Research Scientist @ IBM Almaden Research Center**
 
 Shahrokh Daijavad, a distinguished Research Scientist in the Watsonx Data Engineering group at IBM Almaden Research Center, has a rich background in Edge Computing and Data Engineering. He earned his B.Eng. and Ph.D. in electrical engineering from McMaster University and spent years at IBM T. J. Watson Research Center. His recent research focuses on AI@Edge and Data Engineering for IBM Watsonx AI offerings.
 

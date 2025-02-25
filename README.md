@@ -24,7 +24,7 @@ You can find details,  recordings and resources for events below.
 
 (latest first)
 - **2025-Mar-06:** [Introducing GneissWeb -  a state-of-the-art LLM pre-training dataset](events/2025-03-06__gneissweb.md)
-- **2025-Feb-27:** Review of Docling and Data Prep Kit and Q&A
+- **2025-Feb-27:** [Review of data preparation tools and Q&A](events/2025-02-27__data-prep-review.md)
 - **2025-Feb-20:** How to contribute to an open source project
 - **2025-Feb-13:** Open source RAG pipeline using Data Prep Kit + Milvus + Granite
 - **2025-Feb-06:** Using Data Prep Kit to process data
