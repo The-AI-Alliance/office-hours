@@ -1,12 +1,12 @@
 # Introducing GneissWeb - a state-of-the-art LLM pre-training dataset (2025 March 06)
 
-## Short URL: TODO
+## 🔗 [Short URL - TODO](#)
 
 <img src="../assets/qrcode_the-ai-alliance.github.io.png" width="400px">
 
 ## Event Details
 
-[Event sign up](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/)<br>
+[Event sign up](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/){:target="_blank" rel="noopener"}<br>
 🗓️ : March 06, 2025 Thursday<br>
 ⏰ : 9 am PST  / 11 am CST / 12 pm EST / 5pm GMT
 
@@ -28,7 +28,7 @@ Introducing GneissWeb (pronounced “niceWeb”), a state-of-the-art LLM pre-tra
 
 ## Resources
 
-[Presenation](#) - TODO
+[Presenation](#){:target="_blank" rel="noopener"} - TODO
 
 
 ## Speaker
@@ -39,4 +39,4 @@ Research Scientist @ IBM Almaden Research Center
 
 Shahrokh Daijavad, a distinguished Research Scientist in the Watsonx Data Engineering group at IBM Almaden Research Center, has a rich background in Edge Computing and Data Engineering. He earned his B.Eng. and Ph.D. in electrical engineering from McMaster University and spent years at IBM T. J. Watson Research Center. His recent research focuses on AI@Edge and Data Engineering for IBM Watsonx AI offerings.
 
-<img src="../assets/linkedin.svg" width="16 px"> [Linkedin](https://www.linkedin.com/in/shahrokh-daijavad-98b08b3/)
+<img src="../assets/linkedin.svg" width="16 px"> [Linkedin](https://www.linkedin.com/in/shahrokh-daijavad-98b08b3/){:target="_blank" rel="noopener"}
