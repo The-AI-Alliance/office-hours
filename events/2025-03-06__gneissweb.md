@@ -8,11 +8,17 @@
 
 [Event sign up](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/){:target="_blank" rel="noopener"}<br>
 🗓️ : March 06, 2025 Thursday<br>
-⏰ : 9 am PST  / 11 am CST / 12 pm EST / 5pm GMT
+⏰ : 9 am PST  / 11 am CST / 12 pm EST / 5pm GMT  
+Duration: 1 hour
 
-## About
+## Agenda
 
-**Introducing GneissWeb (pronounced "niceWeb"), a state-of-the-art LLM pre-training dataset**
+- Quick intro about AI Alliance (5 mins)
+- GneissWeb presentation (40 mins)
+- Q&A (10 mins)
+- Wrapup
+
+## Session: Introducing GneissWeb -  a state-of-the-art LLM pre-training dataset
 
 At IBM, responsible AI implies transparency in training data:
 Introducing GneissWeb (pronounced "niceWeb"), a state-of-the-art LLM pre-training dataset with ~10 Trillion tokens derived from FineWeb, with open recipes, results, and tools for reproduction!
@@ -27,14 +33,28 @@ In this session we will go over how we created GneissWeb and discuss tools and t
 👉 [announcement](https://research.ibm.com/blog/gneissweb-for-granite-training){:target="_blank" rel="noopener"}  
 👉 [Paper](https://arxiv.org/abs/2502.14907){:target="_blank" rel="noopener"}  
 
-## Resources
+### Session Type: 
+
+Presentation
+
+### Audience
+
+LLM app developers, data scientists, data engineers
+
+### Technical Level
+
+Beginner - Intermediate
+
+### Prerequisites
+
+None
+
+### Resources
 
 [Presenation](#){:target="_blank" rel="noopener"} - TODO
 
 
-## Speaker
-
-### Shahrokh Daijavad
+### Speaker: Shahrokh Daijavad
 
 Research Scientist @ IBM Almaden Research Center
 
