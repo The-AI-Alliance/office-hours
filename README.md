@@ -28,4 +28,4 @@ You can find details,  recordings and resources for events below.
 - **2025-Feb-20:** How to contribute to an open source project
 - **2025-Feb-13:** Open source RAG pipeline using Data Prep Kit + Milvus + Granite
 - **2025-Feb-06:** Using Data Prep Kit to process data
-- **2025-Jan-30:** Using Docling to process data
+- **2025-Jan-30:** [Data processing using Docling](events/2025-01-30__docling.md)
