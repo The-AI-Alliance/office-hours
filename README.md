@@ -1,24 +1,19 @@
 # The AI Alliance Office Hours
 
-Welcome to your one-stop hub for all the details, content, and updates on our weekly sessions.
-
+Welcome to the AI Alliance Office Hours. See below for upcoming sessions and past recordings. 
 
 ## 🔗 [the-ai-alliance.github.io/office-hours](https://the-ai-alliance.github.io/office-hours/)
 
 <img src="assets/qrcode_the-ai-alliance.github.io.png" width="400px">
 
-
 ## About
 
-The AI Alliance Office Hours are held every week, offering a forum for engaging talks and live Q&A sessions with experts involved in Alliance projects and technologies. Join us to gain insights, ask questions, and connect with innovators at the forefront of AI development.
+Office Hours are held every week, offering engaging talks and live Q&A sessions with experts from Alliance projects and technologies. Join us for insights, ask questions, and connect with innovators at the forefront of AI development.
 
-
-🗓️ : **Every Thursdays**  
+🗓️ : **Every Thursday**  
 ⏰ : **9 am Pacific | 11 am Central | 12 pm Eastern | 5pm GMT**
 
-[Sign up here](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/?eventOrigin=event_home_page){:target="_blank" rel="noopener"}
-
-You can find details,  recordings and resources for events below.
+[Sign up here](https://www.meetup.com/ibm-developer-sf-bay-area-meetup) 
 
 ## Events
 
