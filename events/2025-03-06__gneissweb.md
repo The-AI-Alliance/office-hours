@@ -6,7 +6,7 @@
 
 ## Event Details
 
-[Event sign up](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/){:target="_blank" rel="noopener"}<br>
+[Event sign up](https://www.meetup.com/ibm-developer-sf-bay-area-meetup/events/306423583/){:target="_blank" rel="noopener"}<br>
 🗓️ : March 06, 2025 Thursday<br>
 ⏰ : 9 am PST  / 11 am CST / 12 pm EST / 5pm GMT  
 Duration: 1 hour
