@@ -18,6 +18,9 @@ Office Hours are held every week, offering engaging talks and live Q&A sessions 
 ## Events
 
 (latest first)
+
+- **2025-Mar-20:** [Workshop: Hands on with Data Prep Kit](events/2025-03-20__data-prep-kit-hands-on.md)
+- **2025-Mar-13:** [Workshop: Hands on with Docling](events/2025-03-13__docling-hands-on.md)
 - **2025-Mar-06:** [Introducing GneissWeb -  a state-of-the-art LLM pre-training dataset](events/2025-03-06__gneissweb.md)
 - **2025-Feb-27:** [Review of data preparation tools and Q&A](events/2025-02-27__data-prep-review.md)
 + **2025-Feb-20:** [How to contribute to an open source project](events/2025-02-20__contributing-open-source.md)

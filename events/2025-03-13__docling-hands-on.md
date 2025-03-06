@@ -43,7 +43,7 @@ Docling is a versatile document processor that handles various file types, inclu
 
 More about docking: https://github.com/DS4SD/docling
 
-Join us for this hands-on session to explore how to use Docling for your data needs..
+Join us for this hands-on session to explore how to use Docling for your data needs.
 
 In this workshop we will do the following:
 
@@ -71,6 +71,10 @@ None
 
 **Duration**  
 45 mins
+
+### Resources
+
+will be available soon.
 
 ### Speaker: Sujee Maniyam
 
