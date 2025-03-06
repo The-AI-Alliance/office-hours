@@ -56,7 +56,7 @@ None
 ### Resources
 
 
-📺 **Presentation**: [coming soon](#){:target="_blank" rel="noopener"}
+📺 **Presentation**: [slides](2025-02-20__contributing-to-open-source.pdf)
 
 
 💻 **Code**
