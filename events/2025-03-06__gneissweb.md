@@ -18,6 +18,14 @@ Duration: 1 hour
 - Q&A (10 mins)
 - Wrapup
 
+**Event recording will be available soon**
+
+**[Check resources](#resources)** - code, presentation slides ..etc
+
+**[Q & A section](#q--a)**
+
+---
+
 ## Session: Introducing GneissWeb -  a state-of-the-art LLM pre-training dataset
 
 At IBM, responsible AI implies transparency in training data:
@@ -51,7 +59,7 @@ None
 
 ### Resources
 
-[Presenation](#){:target="_blank" rel="noopener"} - TODO
+[Presenation slides](2025-03-06__gneissweb-dpk.pdf){:target="_blank" rel="noopener"}
 
 
 ### Speaker: Shahrokh Daijavad
@@ -61,3 +69,9 @@ None
 Shahrokh Daijavad, a distinguished Research Scientist in the Watsonx Data Engineering group at IBM Almaden Research Center, has a rich background in Edge Computing and Data Engineering. He earned his B.Eng. and Ph.D. in electrical engineering from McMaster University and spent years at IBM T. J. Watson Research Center. His recent research focuses on AI@Edge and Data Engineering for IBM Watsonx AI offerings.
 
 <img src="../assets/linkedin.svg" width="16 px"> [Linkedin](https://www.linkedin.com/in/shahrokh-daijavad-98b08b3/){:target="_blank" rel="noopener"}
+
+---
+
+## Q & A
+
+Please review the session recording
