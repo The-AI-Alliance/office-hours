@@ -74,7 +74,9 @@ None
 
 ### Resources
 
-will be available soon.
+📊 [Presentation](https://docs.google.com/presentation/d/1SkghvqrdTo9wIAye36jO_KNVTWbO6v5bqfVI7CWA3-g/edit?usp=sharing)
+
+💻 [Code](https://github.com/sujee/data-prep-kit-examples/tree/main/docling)
 
 ### Speaker: Sujee Maniyam
 
