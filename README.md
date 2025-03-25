@@ -19,6 +19,7 @@ Office Hours are held every week, offering engaging talks and live Q&A sessions 
 
 (latest first)
 
+- **2025-Apr-10:** [Simplifying DPK Pipeline Creation with Agentic Workflows](events/2025-04-10__dpk-pipeline-with-agentic-workflows.md)
 - **2025-Mar-27:** [Workshop: Preparing High Quality Datasets with Data Prep Kit](events/2025-03-27__high-quality-dataset-with-dpk.md)
 - **2025-Mar-20:** [Workshop: Hands on with Data Prep Kit](events/2025-03-20__data-prep-kit-hands-on.md)
 - **2025-Mar-13:** [Workshop: Hands on with Docling](events/2025-03-13__docling-hands-on.md)
