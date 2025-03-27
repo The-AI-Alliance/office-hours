@@ -19,6 +19,7 @@ Office Hours are held every week, offering engaging talks and live Q&A sessions 
 
 (latest first)
 
+- **2025-Apr-17:** AI Red-Teaming: Stress Testing AI Systems for Safety & Reliability
 - **2025-Apr-10:** [Simplifying DPK Pipeline Creation with Agentic Workflows](events/2025-04-10__dpk-pipeline-with-agentic-workflows.md)
 - **2025-Apr-03:** TBA
 - **2025-Mar-27:** [Workshop: Preparing High Quality Datasets with Data Prep Kit](events/2025-03-27__high-quality-dataset-with-dpk.md)
